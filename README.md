@@ -1,2 +1,2 @@
 # finaly-exam-01-01-01-menu
-Készítsen desktop alkalmazást CoffeProject néven, amelyben egy Kávéház nevű menüpontból két almenüpont nyílik: „Kávék kezelése”, „Kávé rendelés”. Az almenüpontok kiválasztása után jelenjen meg egy-egy egy form. „Kávé rendelés” menüpont kiválasztása estén a formon jelenjen meg a „Kávék kezelése” felirat, „Kávé rendelés” menüpont választása esetén a „Kávé rendelés” felirat.
+Készítsen desktop alkalmazást CoffeProject néven, amelyben egy Kávéház nevű menüpontból két almenüpont nyílik: „Kávék kezelése”, „Kávé rendelés”. Az almenüpontok kiválasztása után jelenjen meg egy-egy egy form. „Kávé kezelés” menüpont kiválasztása estén a formon jelenjen meg a „Kávék kezelése” felirat, „Kávé rendelés” menüpont választása esetén a „Kávé rendelés” felirat.
